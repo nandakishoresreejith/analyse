@@ -1,0 +1,5 @@
+{
+  "name": "AlgoViz AI",
+  "description": "An interactive algorithm visualizer and code editor powered by Gemini. Write code, visualize sorting algorithms step-by-step, and get real-time AI assistance.",
+  "requestFramePermissions": []
+}
